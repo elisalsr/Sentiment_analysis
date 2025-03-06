@@ -15,6 +15,8 @@ With **2.5 billion users** and **1 billion hours watched daily**, YouTube shapes
 - How well does **sentiment analysis** capture public perception of Elon Musk?  
 - How do **YouTube comment sections** reflect polarized opinions?  
 
+<br>
+
 <h2>II) Data Preparation</h2>
 
 We selected two videos with **23,000+ comments** and extracted the data using **Octoparse**.  
@@ -24,6 +26,8 @@ Key steps:
 - Standardized missing values  
 - Exported as an **Excel file**  
 - Used **Google Colab & R** for cleaning and analysis  
+
+<br>
 
 <h2>III) Model Planning & Building</h2>
 
@@ -49,6 +53,8 @@ Using the **syuzhet** package, we:
 **Results**:  
 - Comments were **twice as positive as negative**  
 - Dominant emotions: **trust, joy, anticipation, and fear**  
+
+<br>
 
 <h2>IV) Communicating Results</h2>
 
